@@ -1,0 +1,5 @@
+homepage: "https://www.getelevar.com"
+documentation: "https://github.com/getelevar/gtm-monitoring-tag-info/blob/master/README.md"
+versions:
+  - sha:
+    changeNotes: Initial release.
