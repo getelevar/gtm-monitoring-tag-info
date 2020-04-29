@@ -1,5 +1,5 @@
 homepage: "https://www.getelevar.com"
 documentation: "https://github.com/getelevar/gtm-monitoring-tag-info/blob/master/README.md"
 versions:
-  - sha:
+  - sha: ac92683d32fb730a79490cde2598ab816e627ffd
     changeNotes: Initial release.
