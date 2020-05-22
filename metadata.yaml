@@ -1,5 +1,7 @@
 homepage: "https://www.getelevar.com"
 documentation: "https://github.com/getelevar/gtm-monitoring-tag-info/blob/master/README.md"
 versions:
+  - sha: 9776b5cd75cb54d8008fd17e7006af7a66ea8d39
+    changeNotes: Add white background to Icon image to remove blue background in template addition screen.
   - sha: ac92683d32fb730a79490cde2598ab816e627ffd
     changeNotes: Initial release.
